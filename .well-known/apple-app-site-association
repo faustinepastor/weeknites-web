@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ML2VF287BH.com.mealplannergrocerylist.app",
+        "paths": [
+          "/invite/*",
+          "/join/*"
+        ]
+      }
+    ]
+  }
+}
